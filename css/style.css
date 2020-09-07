@@ -100,5 +100,11 @@ button {
     border-radius: 12px;
     padding: 1rem 2rem;
     color: #DDA0DD;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #DDA0DD;
+    color: #0F0F1B;
 }
 
